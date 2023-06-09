@@ -19,6 +19,10 @@ Unsupervised learning techniques were employed in this project, as the dataset d
     Elbow Method: The Elbow method was used to determine the optimal number of clusters for the dataset. A screenshot of the Elbow method plot is provided below.
 
     K-Means Clustering: K-Means algorithm was employed to cluster the data into groups based on similarities. The optimal number of clusters determined through the Elbow method was used (seven clusters). A screenshot of the K-Means clustering results is provided below.
+    
+    
+    ![image](https://github.com/jomape-iron/Final_project/assets/127798793/0a0ba1c0-fc6d-467a-bf3b-0d2ca3eb00ad)
+
 
 
 ## IV. Next Steps
